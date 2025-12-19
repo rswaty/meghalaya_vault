@@ -28,7 +28,10 @@ Explored cost-benefits of a more modern agricultural system that was established
 -  notes that SOC, availability of fodders makes the area more suitable (for jhum?) for cereals and pulses (edible seeds of legumes such as lentils, chickpeas, beans) and different livestock. From [[Das et al 2019.pdf|Das et al., 2019]]. 
 - says jhum is not economically viable or sustainable due to reduced fallow periods which are driven by demographic pressures
 - "Suitable IFS model comprising cereals, pulses, oil-seeds, vegetable crops, fruits, livestock unit, fodder crops, farm pond, and vermicomposting unit have been developed at ICAR Research Complex for NEH Region, Umiam for hills of NER of India to meet the diverse requirement of the farm household while preserving the re source base and maintaining the environment (Layeket al., 2023). "
-- 
+- Small site, been managed as modern ag system since 1983
+- Fairly intensive inputs (IMHO) and costs
+- No 'controls' or contrasting information on jhum inputs/outputs
+- "Besides this, crop diversification and livestock integration also enhance energy dynamics; and amalgamation of the agroforestry component (natural forest on the hilly slope) resulted in reduced environmental footprints and created a positive carbon balance, thereby promoting a green and circular economy."
 
 
 
